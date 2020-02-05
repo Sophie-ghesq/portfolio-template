@@ -4,7 +4,7 @@
             <p class="copyright">
                 <small>&copy;</small>
                 <script>document.write(new Date().getFullYear());</script> 
-                Sophie Ghesquier
+                Your names
             </p>
         </div>
         </footer>
@@ -12,6 +12,6 @@
         <!-- aos -->
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
         <!-- main --> 
-        <script type="text/javascript" src="http://parabens.fr/src/js/main.js"></script>
+        <script type="text/javascript" src="/portfolio-template/src/js/main.js"></script>
 	</body>
 </html>

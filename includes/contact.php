@@ -16,7 +16,7 @@
 			<!-- telephone -->
 			<div class="col-sm-4 col-12">
 		 		<h4>Téléphone :</h4>  
-		  		<p>+33601453025</p>  
+		  		<p>+33000000000</p>  
 			</div>
 			<!-- mail -->
 			<div class="col-sm-4 col-12 ">
@@ -29,10 +29,10 @@
 			<div class="col-sm-4 col-12">
 		  		<h4>Réseaux sociaux :</h4>
 		  		<ul>
-					<li><a href="https://www.behance.net/sophie59964c96"><i class="fab fa-behance"></i></a></li>
-					<li><a href="https://www.instagram.com/chups_5/"><i class="fab fa-instagram"></i></a></li>
-					<li><a href="https://www.linkedin.com/in/sophie-ghesquier-084133119/"><i class="fab fa-linkedin-in"></i></a></li>
-					<li><a href="/portfolio/vue/404.html"><i class="fab fa-github"></i></a></li>
+					<li><a href=""><i class="fab fa-behance"></i></a></li>
+					<li><a href=""><i class="fab fa-instagram"></i></a></li>
+					<li><a href=""><i class="fab fa-linkedin-in"></i></a></li>
+					<li><a href="/portfolio-template/vue/404.html"><i class="fab fa-github"></i></a></li>
 		  		</ul>
 			</div>
 		<!-- /rows -->	

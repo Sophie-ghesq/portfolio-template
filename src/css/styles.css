@@ -1,22 +1,5 @@
 /* font */
-@font-face{
-  font-family:"rational";
-  src: url("../fonts/rational/rational-bold.otf");
-  font-weight: bold;
-  font-style: normal;
-}
-@font-face{
-  font-family:"rational";
-  src: url("../fonts/rational/rational-light.otf");
-  font-weight: lighter;
-  font-style: normal;
-}
-@font-face{
-  font-family:"rational";
-  src: url("../fonts/rational/rational-meduim.otf");
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500i&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap');
 /* couleurs variables*/
 :root{
@@ -30,7 +13,7 @@
 /*--------------------------Général--------------------------*/
 /*-----------------------------------------------------------*/
 body{
-	font-family: 'rational', serif;
+	font-family: 'Roboto', sans-serif;
 	color: var(--bleu);
 	text-align: center;
 }

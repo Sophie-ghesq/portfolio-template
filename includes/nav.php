@@ -2,8 +2,8 @@
 <!-- Navbar -->
 <!--////////-->
 <nav class="navbar">
-    <a class="navbar-brand" href="http://parabens.fr/index.php">
-        <img src="http://parabens.fr/src/img/icon/logo-black.png" type="image/png" alt="logo-black">
+    <a class="navbar-brand" href="/portfolio-template/index.php">
+        <img src="" type="image/png" alt="logo">
     </a>
     <!-- burger -->
     <button class="navbar-toggler burger" type="button" data-toggle="collapse" data-target="#navbarcontenu" aria-expanded="false" aria-controls="navbarcontenu">
@@ -19,10 +19,10 @@
         <!-- Lien navbar -->
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="http://parabens.fr/index.php">Accueil</a>
+                <a class="nav-link" href="/portfolio-template/index.php">Accueil</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="http://parabens.fr/vue/projets.php">Projets</a>
+                <a class="nav-link" href="/portfolio-template/vue/projets.php">Projets</a>
             </li>
             <!--
             <li class="nav-item">
@@ -30,7 +30,7 @@
             </li>
             -->
             <li class="nav-item">
-                <a class="nav-link" href="http://parabens.fr/vue/contact.php">Contact</a>
+                <a class="nav-link" href="/portfolio-template/vue/contact.php">Contact</a>
             </li>
         </ul>
     </div>
