@@ -1,5 +1,5 @@
 <?php 
-	require "includes/functions.php"; 
+	require "/portfolio-template/includes/functions.php"; 
 	get_head();
 	get_nav(); 
 ?>
@@ -10,8 +10,8 @@
 <!-- header -->
 <!--////////-->
 <header>
-	<h1>Sophie Ghesquier</h1> 
-    <h3 class="normal">Design Graphique & Développement web</h3>
+	<h1>Votre nom</h1> 
+    <h3 class="normal">Description de votre portfolio</h3>
 </header>
 <!--////////-->
 <!-- Slogan -->
@@ -21,21 +21,21 @@
     	<div class="row">
         <!-- high five -->
 	        <div class="col-lg-4 col-md-4 col-sm-4 bleu" data-aos="fade-up" data-aos-duration="1000" data-aos-anchor-placement="top-center">
-	         	<img class="icon"  src="http://parabens.fr/src/img/icon/logo-black.png">
-	         	<h3>High five</h3>
-	        	<p>Un travail d’équipe pour créer quelques choses de très spécial entre nous et former une seule et même équipe.</p>
+	         	<img class="icon"  src="" alt="icon1">
+	         	<h3>Slogan 1</h3>
+	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo arcu eget purus vehicula facilisis non in eros. Curabitur commodo, dui et commodo </p>
 	        </div>
 	        <!-- fun -->
 	        <div class="col-lg-4 col-md-4 col-sm-4 vert" data-aos="fade-up"  data-aos-duration="1000" data-aos-anchor-placement="top-center" >
-	         	<img class="icon"  src="http://parabens.fr/src/img/icon/fun.png">
-	        	<h3>Fun</h3>
-	        	<p>Colorée, pétillante, jeune pour pouvoir gardez un oeil jeune car c'est garder un oeil ouvert</p>
+            <img class="icon"  src="" alt="icon2">
+	        	<h3>Slogan 2</h3>
+	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo arcu eget purus vehicula facilisis non in eros. Curabitur commodo, dui et commodo </p>
 	        </div>
 	        <!-- future -->
 	        <div class="col-lg-4 col-md-4 col-sm-4 rose" data-aos="fade-up" data-aos-duration="1000"data-aos-anchor-placement="top-center">
-	        	<img class="icon"  src="http://parabens.fr/src/img/icon/future.png">
-	         	<h3>Future</h3>
-	        	<p>Pensez futur pour imaginer l’avenir ensemble et créer l'évidence</p>
+	        	<img class="icon"  src="" alt="icon3">
+	         	<h3>Slogan 3</h3>
+	        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo arcu eget purus vehicula facilisis non in eros. Curabitur commodo, dui et commodo </p>
 	        </div>
         </div>
     </section>  
@@ -52,7 +52,7 @@
     <!-- plus de projets-->   
 	<div class="row">
         <div class="col-12 projets-plus">
-         	<a href="http://parabens.fr/vue/projets.html">
+         	<a href="/portfolio-template/vue/projets.html">
             	<h3>Encore plus ...</h3>
           	</a>
         </div>
@@ -72,10 +72,10 @@
        <!-- contenu about-->
         <div class="row"> 
           	<div class="col-12">
-            	<h4 class="vert">De moi, </h4>
-            	<p>Je suis curieuse et passionnée, je ne laisse rien au hasard car je pense que le bon design doit faire sens ett être compris facilement par le plus grand nombre.</p>
-            	<h4 class="vert">Mais surtout pour vous !</h4>
-            	<p>Pour trouver des solutions graphiques et technologiques qui s'adaptera le mieux à vos besoins et sauront vous demarquer.</p>
+            	<h4 class="vert">Sous titre </h4>
+            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo arcu eget purus vehicula facilisis non in eros. Curabitur commodo, dui et commodo hendrerit, est ipsum bibendum ante, sit amet sollicitudin est turpis in massa. Praesent ac elit nec ante rhoncus consequat sed ut eros. In eleifend erat consequat libero pretium, sed vehicula turpis consequat. Aliquam consectetur tortor id nulla vestibulum fringilla. Vivamus sollicitudin eleifend efficitur. </p>
+            	<h4 class="vert">Sous titre</h4>
+            	<p>In ut augue eget augue laoreet convallis. Donec scelerisque ipsum quis fringilla ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras diam tellus, venenatis vitae magna at, sollicitudin laoreet ante.</p>
           	</div>
         </div> 
 

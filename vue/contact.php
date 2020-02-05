@@ -13,8 +13,8 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-12">
-            <h1>Call me maybe</h1>
-            <h3>Carly rae Jepson</h3>
+            <h1>Titre / contact</h1>
+            <h3>Description</h3>
           </div>
         </div>
       </div>
@@ -29,31 +29,31 @@
           <!-- informations -->
           <div class='adresse'>
             <h2>Adresse:</h2> 
-            <h3 class="normal">44 rue aimé Broustaut <br> 33470 Gujan Mestras</h3> 
+            <h3 class="normal">10 rue victor Hugo <br>  Paris</h3> 
           </div> 
           <div class="mail">
             <h2>Mail:</h2> 
-            <a href="sophieghesq@gmail.com">
-              <h3 class="normal">sophieghesq@gmail.com</h3> 
+            <a href="">
+              <h3 class="normal">tonmail@mail.com</h3> 
             </a>
           </div>
           <div class="phone">
             <h2>Telephone:</h2> 
-            <h3 class="normal">+33601453025</h3> 
+            <h3 class="normal">+33000000000</h3> 
           </div>
           <!-- social icons -->
           <div class="social-icons">
             <h2>Social media:</h2> 
-            <a href="https://www.linkedin.com/in/sophie-ghesquier-084133119/">
+            <a href="">
               <i class="fab fa-linkedin-in"></i>
             </a>
-            <a href="vue/404.html">
+            <a href="">
               <i class="fab fa-github"></i>
             </a>
-            <a href="https://www.behance.net/sophie59964c96">
+            <a href="">
               <i class="fab fa-behance"></i>
             </a>
-            <a href="https://www.instagram.com/chups_5/">
+            <a href="">
               <i class="fab fa-instagram"></i>
             </a>
           </div>
