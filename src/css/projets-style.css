@@ -1,0 +1,45 @@
+:root{
+	--bleu:#232841;
+	--rose:#f8ccc8;;
+	--vert:#3ab6af;
+	--blanc:#f0f1f2;
+}
+/* general */
+ul{
+	padding:0 10px;
+}
+li{
+	padding: 10px;
+}
+
+/*header*/
+header{
+	background: url(../img/background/background-nano.png) no-repeat center top;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+/*main*/
+main{
+	text-align: justify;
+}
+main a:hover{
+	text-decoration: underline;
+}
+main h2{
+	margin:20px 0 5px 0;
+	text-align: left;
+}
+.img-projet-single{
+	display: block;
+	min-height: 900px;
+}
+.img-projet-single  img {
+	margin: 20px;
+}
+.block-fixed{
+	position: sticky;
+	top: 50px;
+	height:300px;
+}
+
